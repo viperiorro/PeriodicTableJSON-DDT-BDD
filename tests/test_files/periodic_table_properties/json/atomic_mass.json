@@ -1,0 +1,359 @@
+[
+    {
+        "atomic_mass": 1.008
+    },
+    {
+        "atomic_mass": 4.0026022
+    },
+    {
+        "atomic_mass": 6.94
+    },
+    {
+        "atomic_mass": 9.01218315
+    },
+    {
+        "atomic_mass": 10.81
+    },
+    {
+        "atomic_mass": 12.011
+    },
+    {
+        "atomic_mass": 14.007
+    },
+    {
+        "atomic_mass": 15.999
+    },
+    {
+        "atomic_mass": 18.9984031636
+    },
+    {
+        "atomic_mass": 20.17976
+    },
+    {
+        "atomic_mass": 22.989769282
+    },
+    {
+        "atomic_mass": 24.305
+    },
+    {
+        "atomic_mass": 26.98153857
+    },
+    {
+        "atomic_mass": 28.085
+    },
+    {
+        "atomic_mass": 30.9737619985
+    },
+    {
+        "atomic_mass": 32.06
+    },
+    {
+        "atomic_mass": 35.45
+    },
+    {
+        "atomic_mass": 39.9481
+    },
+    {
+        "atomic_mass": 39.09831
+    },
+    {
+        "atomic_mass": 40.0784
+    },
+    {
+        "atomic_mass": 44.9559085
+    },
+    {
+        "atomic_mass": 47.8671
+    },
+    {
+        "atomic_mass": 50.94151
+    },
+    {
+        "atomic_mass": 51.99616
+    },
+    {
+        "atomic_mass": 54.9380443
+    },
+    {
+        "atomic_mass": 55.8452
+    },
+    {
+        "atomic_mass": 58.9331944
+    },
+    {
+        "atomic_mass": 58.69344
+    },
+    {
+        "atomic_mass": 63.5463
+    },
+    {
+        "atomic_mass": 65.382
+    },
+    {
+        "atomic_mass": 69.7231
+    },
+    {
+        "atomic_mass": 72.6308
+    },
+    {
+        "atomic_mass": 74.9215956
+    },
+    {
+        "atomic_mass": 78.9718
+    },
+    {
+        "atomic_mass": 79.904
+    },
+    {
+        "atomic_mass": 83.7982
+    },
+    {
+        "atomic_mass": 85.46783
+    },
+    {
+        "atomic_mass": 87.621
+    },
+    {
+        "atomic_mass": 88.905842
+    },
+    {
+        "atomic_mass": 91.2242
+    },
+    {
+        "atomic_mass": 92.906372
+    },
+    {
+        "atomic_mass": 95.951
+    },
+    {
+        "atomic_mass": 98
+    },
+    {
+        "atomic_mass": 101.072
+    },
+    {
+        "atomic_mass": 102.905502
+    },
+    {
+        "atomic_mass": 106.421
+    },
+    {
+        "atomic_mass": 107.86822
+    },
+    {
+        "atomic_mass": 112.4144
+    },
+    {
+        "atomic_mass": 114.8181
+    },
+    {
+        "atomic_mass": 118.7107
+    },
+    {
+        "atomic_mass": 121.7601
+    },
+    {
+        "atomic_mass": 127.603
+    },
+    {
+        "atomic_mass": 126.904473
+    },
+    {
+        "atomic_mass": 131.2936
+    },
+    {
+        "atomic_mass": 132.905451966
+    },
+    {
+        "atomic_mass": 137.3277
+    },
+    {
+        "atomic_mass": 138.905477
+    },
+    {
+        "atomic_mass": 140.1161
+    },
+    {
+        "atomic_mass": 140.907662
+    },
+    {
+        "atomic_mass": 144.2423
+    },
+    {
+        "atomic_mass": 145
+    },
+    {
+        "atomic_mass": 150.362
+    },
+    {
+        "atomic_mass": 151.9641
+    },
+    {
+        "atomic_mass": 157.253
+    },
+    {
+        "atomic_mass": 158.925352
+    },
+    {
+        "atomic_mass": 162.5001
+    },
+    {
+        "atomic_mass": 164.930332
+    },
+    {
+        "atomic_mass": 167.2593
+    },
+    {
+        "atomic_mass": 168.934222
+    },
+    {
+        "atomic_mass": 173.0451
+    },
+    {
+        "atomic_mass": 174.96681
+    },
+    {
+        "atomic_mass": 178.492
+    },
+    {
+        "atomic_mass": 180.947882
+    },
+    {
+        "atomic_mass": 183.841
+    },
+    {
+        "atomic_mass": 186.2071
+    },
+    {
+        "atomic_mass": 190.233
+    },
+    {
+        "atomic_mass": 192.2173
+    },
+    {
+        "atomic_mass": 195.0849
+    },
+    {
+        "atomic_mass": 196.9665695
+    },
+    {
+        "atomic_mass": 200.5923
+    },
+    {
+        "atomic_mass": 204.38
+    },
+    {
+        "atomic_mass": 207.21
+    },
+    {
+        "atomic_mass": 208.980401
+    },
+    {
+        "atomic_mass": 209
+    },
+    {
+        "atomic_mass": 210
+    },
+    {
+        "atomic_mass": 222
+    },
+    {
+        "atomic_mass": 223
+    },
+    {
+        "atomic_mass": 226
+    },
+    {
+        "atomic_mass": 227
+    },
+    {
+        "atomic_mass": 232.03774
+    },
+    {
+        "atomic_mass": 231.035882
+    },
+    {
+        "atomic_mass": 238.028913
+    },
+    {
+        "atomic_mass": 237
+    },
+    {
+        "atomic_mass": 244
+    },
+    {
+        "atomic_mass": 243
+    },
+    {
+        "atomic_mass": 247
+    },
+    {
+        "atomic_mass": 247
+    },
+    {
+        "atomic_mass": 251
+    },
+    {
+        "atomic_mass": 252
+    },
+    {
+        "atomic_mass": 257
+    },
+    {
+        "atomic_mass": 258
+    },
+    {
+        "atomic_mass": 259
+    },
+    {
+        "atomic_mass": 266
+    },
+    {
+        "atomic_mass": 267
+    },
+    {
+        "atomic_mass": 268
+    },
+    {
+        "atomic_mass": 269
+    },
+    {
+        "atomic_mass": 270
+    },
+    {
+        "atomic_mass": 269
+    },
+    {
+        "atomic_mass": 278
+    },
+    {
+        "atomic_mass": 281
+    },
+    {
+        "atomic_mass": 282
+    },
+    {
+        "atomic_mass": 285
+    },
+    {
+        "atomic_mass": 286
+    },
+    {
+        "atomic_mass": 289
+    },
+    {
+        "atomic_mass": 289
+    },
+    {
+        "atomic_mass": 293
+    },
+    {
+        "atomic_mass": 294
+    },
+    {
+        "atomic_mass": 294
+    },
+    {
+        "atomic_mass": 315
+    }
+]

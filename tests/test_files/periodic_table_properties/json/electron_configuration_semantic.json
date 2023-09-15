@@ -1,0 +1,359 @@
+[
+    {
+        "electron_configuration_semantic": "1s1"
+    },
+    {
+        "electron_configuration_semantic": "1s2"
+    },
+    {
+        "electron_configuration_semantic": "[He] 2s1"
+    },
+    {
+        "electron_configuration_semantic": "[He] 2s2"
+    },
+    {
+        "electron_configuration_semantic": "[He] 2s2 2p1"
+    },
+    {
+        "electron_configuration_semantic": "[He] 2s2 2p2"
+    },
+    {
+        "electron_configuration_semantic": "[He] 2s2 2p3"
+    },
+    {
+        "electron_configuration_semantic": "[He] 2s2 2p4"
+    },
+    {
+        "electron_configuration_semantic": "[He] 2s2 2p5"
+    },
+    {
+        "electron_configuration_semantic": "[He] 2s2 2p6"
+    },
+    {
+        "electron_configuration_semantic": "[Ne] 3s1"
+    },
+    {
+        "electron_configuration_semantic": "[Ne] 3s2"
+    },
+    {
+        "electron_configuration_semantic": "[Ne] 3s2 3p1"
+    },
+    {
+        "electron_configuration_semantic": "[Ne] 3s2 3p2"
+    },
+    {
+        "electron_configuration_semantic": "[Ne] 3s2 3p3"
+    },
+    {
+        "electron_configuration_semantic": "[Ne] 3s2 3p4"
+    },
+    {
+        "electron_configuration_semantic": "[Ne] 3s2 3p5"
+    },
+    {
+        "electron_configuration_semantic": "[Ne] 3s2 3p6"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 4s1"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 4s2"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d1 4s2"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d2 4s2"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d3 4s2"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d5 4s1"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d5 4s2"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d6 4s2"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d7 4s2"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d8 4s2"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d10 4s1"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d10 4s2"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d10 4s2 4p1"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d10 4s2 4p2"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d10 4s2 4p3"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d10 4s2 4p4"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d10 4s2 4p5"
+    },
+    {
+        "electron_configuration_semantic": "[Ar] 3d10 4s2 4p6"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 5s1"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 5s2"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d1 5s2"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d2 5s2"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d4 5s1"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d5 5s1"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d5 5s2"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d7 5s1"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d8 5s1"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d10"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d10 5s1"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d10 5s2"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d10 5s2 5p1"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d10 5s2 5p2"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d10 5s2 5p3"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d10 5s2 5p4"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d10 5s2 5p5"
+    },
+    {
+        "electron_configuration_semantic": "[Kr] 4d10 5s2 5p6"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 6s1"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 5d16s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f1 5d1 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f3 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f4 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f5 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f6 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f7 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f7 5d1 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f9 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f10 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f11 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f12 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f13 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d1 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d2 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d3 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d4 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d5 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d6 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d7 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d9 6s1"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d10 6s1"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p1"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p2"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p3"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p4"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p5"
+    },
+    {
+        "electron_configuration_semantic": "[Xe] 4f14 5d10 6s2 6p6"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 7s1"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 6d1 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 6d2 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f2 6d1 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f3 6d1 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f4 6d1 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f6 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f7 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f7 6d1 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f9 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f10 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f11 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f12 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f13 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f14 7s2"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f14 7s2 7p1"
+    },
+    {
+        "electron_configuration_semantic": "[Rn] 5f14 6d2 7s2"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d3 7s2"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d4 7s2"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d5 7s2"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d6 7s2"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d7 7s2"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d9 7s1"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d10 7s1"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d10 7s2"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d10 7s2 7p1"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d10 7s2 7p2"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d10 7s2 7p3"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d10 7s2 7p4"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d10 7s2 7p5"
+    },
+    {
+        "electron_configuration_semantic": "*[Rn] 5f14 6d10 7s2 7p6"
+    },
+    {
+        "electron_configuration_semantic": "*[Uuo] 8s1"
+    }
+]

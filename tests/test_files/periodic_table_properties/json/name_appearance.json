@@ -1,0 +1,478 @@
+[
+    {
+        "name": "Hydrogen",
+        "appearance": "colorless gas"
+    },
+    {
+        "name": "Helium",
+        "appearance": "colorless gas, exhibiting a red-orange glow when placed in a high-voltage electric field"
+    },
+    {
+        "name": "Lithium",
+        "appearance": "silvery-white"
+    },
+    {
+        "name": "Beryllium",
+        "appearance": "white-gray metallic"
+    },
+    {
+        "name": "Boron",
+        "appearance": "black-brown"
+    },
+    {
+        "name": "Carbon",
+        "appearance": null
+    },
+    {
+        "name": "Nitrogen",
+        "appearance": "colorless gas, liquid or solid"
+    },
+    {
+        "name": "Oxygen",
+        "appearance": null
+    },
+    {
+        "name": "Fluorine",
+        "appearance": null
+    },
+    {
+        "name": "Neon",
+        "appearance": "colorless gas exhibiting an orange-red glow when placed in a high voltage electric field"
+    },
+    {
+        "name": "Sodium",
+        "appearance": "silvery white metallic"
+    },
+    {
+        "name": "Magnesium",
+        "appearance": "shiny grey solid"
+    },
+    {
+        "name": "Aluminium",
+        "appearance": "silvery gray metallic"
+    },
+    {
+        "name": "Silicon",
+        "appearance": "crystalline, reflective with bluish-tinged faces"
+    },
+    {
+        "name": "Phosphorus",
+        "appearance": "colourless, waxy white, yellow, scarlet, red, violet, black"
+    },
+    {
+        "name": "Sulfur",
+        "appearance": "lemon yellow sintered microcrystals"
+    },
+    {
+        "name": "Chlorine",
+        "appearance": "pale yellow-green gas"
+    },
+    {
+        "name": "Argon",
+        "appearance": "colorless gas exhibiting a lilac/violet glow when placed in a high voltage electric field"
+    },
+    {
+        "name": "Potassium",
+        "appearance": "silvery gray"
+    },
+    {
+        "name": "Calcium",
+        "appearance": null
+    },
+    {
+        "name": "Scandium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Titanium",
+        "appearance": "silvery grey-white metallic"
+    },
+    {
+        "name": "Vanadium",
+        "appearance": "blue-silver-grey metal"
+    },
+    {
+        "name": "Chromium",
+        "appearance": "silvery metallic"
+    },
+    {
+        "name": "Manganese",
+        "appearance": "silvery metallic"
+    },
+    {
+        "name": "Iron",
+        "appearance": "lustrous metallic with a grayish tinge"
+    },
+    {
+        "name": "Cobalt",
+        "appearance": "hard lustrous gray metal"
+    },
+    {
+        "name": "Nickel",
+        "appearance": "lustrous, metallic, and silver with a gold tinge"
+    },
+    {
+        "name": "Copper",
+        "appearance": "red-orange metallic luster"
+    },
+    {
+        "name": "Zinc",
+        "appearance": "silver-gray"
+    },
+    {
+        "name": "Gallium",
+        "appearance": "silver-white"
+    },
+    {
+        "name": "Germanium",
+        "appearance": "grayish-white"
+    },
+    {
+        "name": "Arsenic",
+        "appearance": "metallic grey"
+    },
+    {
+        "name": "Selenium",
+        "appearance": "black, red, and gray (not pictured) allotropes"
+    },
+    {
+        "name": "Bromine",
+        "appearance": null
+    },
+    {
+        "name": "Krypton",
+        "appearance": "colorless gas, exhibiting a whitish glow in a high electric field"
+    },
+    {
+        "name": "Rubidium",
+        "appearance": "grey white"
+    },
+    {
+        "name": "Strontium",
+        "appearance": null
+    },
+    {
+        "name": "Yttrium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Zirconium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Niobium",
+        "appearance": "gray metallic, bluish when oxidized"
+    },
+    {
+        "name": "Molybdenum",
+        "appearance": "gray metallic"
+    },
+    {
+        "name": "Technetium",
+        "appearance": "shiny gray metal"
+    },
+    {
+        "name": "Ruthenium",
+        "appearance": "silvery white metallic"
+    },
+    {
+        "name": "Rhodium",
+        "appearance": "silvery white metallic"
+    },
+    {
+        "name": "Palladium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Silver",
+        "appearance": "lustrous white metal"
+    },
+    {
+        "name": "Cadmium",
+        "appearance": "silvery bluish-gray metallic"
+    },
+    {
+        "name": "Indium",
+        "appearance": "silvery lustrous gray"
+    },
+    {
+        "name": "Tin",
+        "appearance": "silvery-white (beta, \u03b2) or gray (alpha, \u03b1)"
+    },
+    {
+        "name": "Antimony",
+        "appearance": "silvery lustrous gray"
+    },
+    {
+        "name": "Tellurium",
+        "appearance": null
+    },
+    {
+        "name": "Iodine",
+        "appearance": "lustrous metallic gray, violet as a gas"
+    },
+    {
+        "name": "Xenon",
+        "appearance": "colorless gas, exhibiting a blue glow when placed in a high voltage electric field"
+    },
+    {
+        "name": "Cesium",
+        "appearance": "silvery gold"
+    },
+    {
+        "name": "Barium",
+        "appearance": null
+    },
+    {
+        "name": "Lanthanum",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Cerium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Praseodymium",
+        "appearance": "grayish white"
+    },
+    {
+        "name": "Neodymium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Promethium",
+        "appearance": "metallic"
+    },
+    {
+        "name": "Samarium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Europium",
+        "appearance": null
+    },
+    {
+        "name": "Gadolinium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Terbium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Dysprosium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Holmium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Erbium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Thulium",
+        "appearance": "silvery gray"
+    },
+    {
+        "name": "Ytterbium",
+        "appearance": null
+    },
+    {
+        "name": "Lutetium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Hafnium",
+        "appearance": "steel gray"
+    },
+    {
+        "name": "Tantalum",
+        "appearance": "gray blue"
+    },
+    {
+        "name": "Tungsten",
+        "appearance": "grayish white, lustrous"
+    },
+    {
+        "name": "Rhenium",
+        "appearance": "silvery-grayish"
+    },
+    {
+        "name": "Osmium",
+        "appearance": "silvery, blue cast"
+    },
+    {
+        "name": "Iridium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Platinum",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Gold",
+        "appearance": "metallic yellow"
+    },
+    {
+        "name": "Mercury",
+        "appearance": "silvery"
+    },
+    {
+        "name": "Thallium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Lead",
+        "appearance": "metallic gray"
+    },
+    {
+        "name": "Bismuth",
+        "appearance": "lustrous silver"
+    },
+    {
+        "name": "Polonium",
+        "appearance": "silvery"
+    },
+    {
+        "name": "Astatine",
+        "appearance": "unknown, probably metallic"
+    },
+    {
+        "name": "Radon",
+        "appearance": "colorless gas, occasionally glows green or red in discharge tubes"
+    },
+    {
+        "name": "Francium",
+        "appearance": null
+    },
+    {
+        "name": "Radium",
+        "appearance": "silvery white metallic"
+    },
+    {
+        "name": "Actinium",
+        "appearance": null
+    },
+    {
+        "name": "Thorium",
+        "appearance": "silvery, often with black tarnish"
+    },
+    {
+        "name": "Protactinium",
+        "appearance": "bright, silvery metallic luster"
+    },
+    {
+        "name": "Uranium",
+        "appearance": null
+    },
+    {
+        "name": "Neptunium",
+        "appearance": "silvery metallic"
+    },
+    {
+        "name": "Plutonium",
+        "appearance": "silvery white, tarnishing to dark gray in air"
+    },
+    {
+        "name": "Americium",
+        "appearance": "silvery white"
+    },
+    {
+        "name": "Curium",
+        "appearance": "silvery metallic, glows purple in the dark"
+    },
+    {
+        "name": "Berkelium",
+        "appearance": "silvery"
+    },
+    {
+        "name": "Californium",
+        "appearance": "silvery"
+    },
+    {
+        "name": "Einsteinium",
+        "appearance": "silver-colored"
+    },
+    {
+        "name": "Fermium",
+        "appearance": null
+    },
+    {
+        "name": "Mendelevium",
+        "appearance": null
+    },
+    {
+        "name": "Nobelium",
+        "appearance": null
+    },
+    {
+        "name": "Lawrencium",
+        "appearance": null
+    },
+    {
+        "name": "Rutherfordium",
+        "appearance": null
+    },
+    {
+        "name": "Dubnium",
+        "appearance": null
+    },
+    {
+        "name": "Seaborgium",
+        "appearance": null
+    },
+    {
+        "name": "Bohrium",
+        "appearance": null
+    },
+    {
+        "name": "Hassium",
+        "appearance": null
+    },
+    {
+        "name": "Meitnerium",
+        "appearance": null
+    },
+    {
+        "name": "Darmstadtium",
+        "appearance": null
+    },
+    {
+        "name": "Roentgenium",
+        "appearance": null
+    },
+    {
+        "name": "Copernicium",
+        "appearance": null
+    },
+    {
+        "name": "Nihonium",
+        "appearance": null
+    },
+    {
+        "name": "Flerovium",
+        "appearance": null
+    },
+    {
+        "name": "Moscovium",
+        "appearance": null
+    },
+    {
+        "name": "Livermorium",
+        "appearance": null
+    },
+    {
+        "name": "Tennessine",
+        "appearance": null
+    },
+    {
+        "name": "Oganesson",
+        "appearance": null
+    },
+    {
+        "name": "Ununennium",
+        "appearance": null
+    }
+]

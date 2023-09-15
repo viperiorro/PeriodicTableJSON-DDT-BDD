@@ -1,0 +1,478 @@
+[
+    {
+        "name": "Hydrogen",
+        "boil": 20.271
+    },
+    {
+        "name": "Helium",
+        "boil": 4.222
+    },
+    {
+        "name": "Lithium",
+        "boil": 1603
+    },
+    {
+        "name": "Beryllium",
+        "boil": 2742
+    },
+    {
+        "name": "Boron",
+        "boil": 4200
+    },
+    {
+        "name": "Carbon",
+        "boil": null
+    },
+    {
+        "name": "Nitrogen",
+        "boil": 77.355
+    },
+    {
+        "name": "Oxygen",
+        "boil": 90.188
+    },
+    {
+        "name": "Fluorine",
+        "boil": 85.03
+    },
+    {
+        "name": "Neon",
+        "boil": 27.104
+    },
+    {
+        "name": "Sodium",
+        "boil": 1156.09
+    },
+    {
+        "name": "Magnesium",
+        "boil": 1363
+    },
+    {
+        "name": "Aluminium",
+        "boil": 2743
+    },
+    {
+        "name": "Silicon",
+        "boil": 3538
+    },
+    {
+        "name": "Phosphorus",
+        "boil": null
+    },
+    {
+        "name": "Sulfur",
+        "boil": 717.8
+    },
+    {
+        "name": "Chlorine",
+        "boil": 239.11
+    },
+    {
+        "name": "Argon",
+        "boil": 87.302
+    },
+    {
+        "name": "Potassium",
+        "boil": 1032
+    },
+    {
+        "name": "Calcium",
+        "boil": 1757
+    },
+    {
+        "name": "Scandium",
+        "boil": 3109
+    },
+    {
+        "name": "Titanium",
+        "boil": 3560
+    },
+    {
+        "name": "Vanadium",
+        "boil": 3680
+    },
+    {
+        "name": "Chromium",
+        "boil": 2944
+    },
+    {
+        "name": "Manganese",
+        "boil": 2334
+    },
+    {
+        "name": "Iron",
+        "boil": 3134
+    },
+    {
+        "name": "Cobalt",
+        "boil": 3200
+    },
+    {
+        "name": "Nickel",
+        "boil": 3003
+    },
+    {
+        "name": "Copper",
+        "boil": 2835
+    },
+    {
+        "name": "Zinc",
+        "boil": 1180
+    },
+    {
+        "name": "Gallium",
+        "boil": 2673
+    },
+    {
+        "name": "Germanium",
+        "boil": 3106
+    },
+    {
+        "name": "Arsenic",
+        "boil": null
+    },
+    {
+        "name": "Selenium",
+        "boil": 958
+    },
+    {
+        "name": "Bromine",
+        "boil": 332
+    },
+    {
+        "name": "Krypton",
+        "boil": 119.93
+    },
+    {
+        "name": "Rubidium",
+        "boil": 961
+    },
+    {
+        "name": "Strontium",
+        "boil": 1650
+    },
+    {
+        "name": "Yttrium",
+        "boil": 3203
+    },
+    {
+        "name": "Zirconium",
+        "boil": 4650
+    },
+    {
+        "name": "Niobium",
+        "boil": 5017
+    },
+    {
+        "name": "Molybdenum",
+        "boil": 4912
+    },
+    {
+        "name": "Technetium",
+        "boil": 4538
+    },
+    {
+        "name": "Ruthenium",
+        "boil": 4423
+    },
+    {
+        "name": "Rhodium",
+        "boil": 3968
+    },
+    {
+        "name": "Palladium",
+        "boil": 3236
+    },
+    {
+        "name": "Silver",
+        "boil": 2435
+    },
+    {
+        "name": "Cadmium",
+        "boil": 1040
+    },
+    {
+        "name": "Indium",
+        "boil": 2345
+    },
+    {
+        "name": "Tin",
+        "boil": 2875
+    },
+    {
+        "name": "Antimony",
+        "boil": 1908
+    },
+    {
+        "name": "Tellurium",
+        "boil": 1261
+    },
+    {
+        "name": "Iodine",
+        "boil": 457.4
+    },
+    {
+        "name": "Xenon",
+        "boil": 165.051
+    },
+    {
+        "name": "Cesium",
+        "boil": 944
+    },
+    {
+        "name": "Barium",
+        "boil": 2118
+    },
+    {
+        "name": "Lanthanum",
+        "boil": 3737
+    },
+    {
+        "name": "Cerium",
+        "boil": 3716
+    },
+    {
+        "name": "Praseodymium",
+        "boil": 3403
+    },
+    {
+        "name": "Neodymium",
+        "boil": 3347
+    },
+    {
+        "name": "Promethium",
+        "boil": 3273
+    },
+    {
+        "name": "Samarium",
+        "boil": 2173
+    },
+    {
+        "name": "Europium",
+        "boil": 1802
+    },
+    {
+        "name": "Gadolinium",
+        "boil": 3273
+    },
+    {
+        "name": "Terbium",
+        "boil": 3396
+    },
+    {
+        "name": "Dysprosium",
+        "boil": 2840
+    },
+    {
+        "name": "Holmium",
+        "boil": 2873
+    },
+    {
+        "name": "Erbium",
+        "boil": 3141
+    },
+    {
+        "name": "Thulium",
+        "boil": 2223
+    },
+    {
+        "name": "Ytterbium",
+        "boil": 1469
+    },
+    {
+        "name": "Lutetium",
+        "boil": 3675
+    },
+    {
+        "name": "Hafnium",
+        "boil": 4876
+    },
+    {
+        "name": "Tantalum",
+        "boil": 5731
+    },
+    {
+        "name": "Tungsten",
+        "boil": 6203
+    },
+    {
+        "name": "Rhenium",
+        "boil": 5869
+    },
+    {
+        "name": "Osmium",
+        "boil": 5285
+    },
+    {
+        "name": "Iridium",
+        "boil": 4403
+    },
+    {
+        "name": "Platinum",
+        "boil": 4098
+    },
+    {
+        "name": "Gold",
+        "boil": 3243
+    },
+    {
+        "name": "Mercury",
+        "boil": 629.88
+    },
+    {
+        "name": "Thallium",
+        "boil": 1746
+    },
+    {
+        "name": "Lead",
+        "boil": 2022
+    },
+    {
+        "name": "Bismuth",
+        "boil": 1837
+    },
+    {
+        "name": "Polonium",
+        "boil": 1235
+    },
+    {
+        "name": "Astatine",
+        "boil": 610
+    },
+    {
+        "name": "Radon",
+        "boil": 211.5
+    },
+    {
+        "name": "Francium",
+        "boil": 950
+    },
+    {
+        "name": "Radium",
+        "boil": 2010
+    },
+    {
+        "name": "Actinium",
+        "boil": 3500
+    },
+    {
+        "name": "Thorium",
+        "boil": 5061
+    },
+    {
+        "name": "Protactinium",
+        "boil": 4300
+    },
+    {
+        "name": "Uranium",
+        "boil": 4404
+    },
+    {
+        "name": "Neptunium",
+        "boil": 4447
+    },
+    {
+        "name": "Plutonium",
+        "boil": 3505
+    },
+    {
+        "name": "Americium",
+        "boil": 2880
+    },
+    {
+        "name": "Curium",
+        "boil": 3383
+    },
+    {
+        "name": "Berkelium",
+        "boil": 2900
+    },
+    {
+        "name": "Californium",
+        "boil": 1743
+    },
+    {
+        "name": "Einsteinium",
+        "boil": 1269
+    },
+    {
+        "name": "Fermium",
+        "boil": null
+    },
+    {
+        "name": "Mendelevium",
+        "boil": null
+    },
+    {
+        "name": "Nobelium",
+        "boil": null
+    },
+    {
+        "name": "Lawrencium",
+        "boil": null
+    },
+    {
+        "name": "Rutherfordium",
+        "boil": 5800
+    },
+    {
+        "name": "Dubnium",
+        "boil": null
+    },
+    {
+        "name": "Seaborgium",
+        "boil": null
+    },
+    {
+        "name": "Bohrium",
+        "boil": null
+    },
+    {
+        "name": "Hassium",
+        "boil": null
+    },
+    {
+        "name": "Meitnerium",
+        "boil": null
+    },
+    {
+        "name": "Darmstadtium",
+        "boil": null
+    },
+    {
+        "name": "Roentgenium",
+        "boil": null
+    },
+    {
+        "name": "Copernicium",
+        "boil": 3570
+    },
+    {
+        "name": "Nihonium",
+        "boil": 1430
+    },
+    {
+        "name": "Flerovium",
+        "boil": 420
+    },
+    {
+        "name": "Moscovium",
+        "boil": 1400
+    },
+    {
+        "name": "Livermorium",
+        "boil": 1085
+    },
+    {
+        "name": "Tennessine",
+        "boil": 883
+    },
+    {
+        "name": "Oganesson",
+        "boil": 350
+    },
+    {
+        "name": "Ununennium",
+        "boil": 630
+    }
+]

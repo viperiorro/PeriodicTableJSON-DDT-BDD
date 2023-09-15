@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": 123
+    },
+    "age": {
+      "type": "integer",
+      "minimum": "incorrect-type"
+    },
+    "email": {
+      "type": "string",
+      "format": 456
+    },
+    "isStudent": {
+      "type": "boolean",
+      "additionalProperty": "not-allowed"
+    }
+  },
+  "required": ["name", "age", "email", "isStudent", "additionalProperty"]
+}
